@@ -37,6 +37,26 @@ horoscope_dic = {"ARIES":["Get-togethers with friends or meetings with a small g
                            " You may run into a great deal of frustration if you try to fight the current circumstances. "]}
 
 print("\033[1:33m <<<<<welcome to satan's fortune teller corner>>>>>>")
+print("             .,:cccccccccc:,. \n" +
+"       ,lolc:,'.cccccccc.',:clll,.\n" +
+"      .cll:.                .:llc'\n" +
+"    .ld:.,dl'              'ld,.:do.\n"+
+"   ;xl.  .oOlc;.        .;clko.  .cx;\n" +
+"  :k:     'o;.,cc;.  .;cc,.,o'     ;kc\n" +
+" ;k:       :o.  .colloc.  .o:       ;k:\n"+
+".xo.       .lc..:c,',;c:'.:l.        lx.\n"+
+";k;         ;dl:'      ':ld;         ,k:\n"+
+"ck'      .,ccll.        .ol;c;.      .kl\n"+
+":k'   .':c;. .lc        :o. .;cc,.   'kc\n"+
+"'kc 'lxdc'....:d;......,oc....':dxo'.:k,\n"+
+" co;:lc:;;;;;;,ld:;;;;cdl;;;;;;;;cc:;oc.\n"+
+" .do.          .l:    ;l.          .ox. \n"+
+"  .dd.          ,o'  .o;          .od'\n" +
+"  .lx:.         cl'.ll         .:xl.\n" +
+"     'odc.       .oOOd.       .:do'\n" +
+"       .cooc,.    ,xk;    .,:ooc.\n"+
+"          .:llllccccccccllll:.\n"+
+"              .;cc;;:c;cd.")
 print("\033[1:32m !!!safe to leave by speaking go to hell!!!")
 def fortune_reader():
     noob = 0
